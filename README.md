@@ -1,2 +1,3 @@
-# hackerrank
-My JavaScript solutions to exercises at Hackerrank.
+# My JavaScript HackerRank Solutions
+
+My JavaScript solutions to exercises and tests at [HackerRank](https://www.hackerrank.com/).
